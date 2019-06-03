@@ -1,5 +1,8 @@
 We will be talking about genetics here.
-
+- For converting word docs to pdf on ubuntu
+- sudo apt install unoconv
+- doc2pdf your_word_doc
+- 
 - Initialize the repo on github and clone with https
 - git clone https://github.com/username/repo.git
 - Initialize the repo on github and clone with ssh
