@@ -1,0 +1,20 @@
+We will be talking about genetics here.
+- For converting word docs to pdf on ubuntu
+- sudo apt install unoconv
+- doc2pdf your_word_doc
+- 
+- Initialize the repo on github and clone with https
+- git clone https://github.com/username/repo.git
+- Initialize the repo on github and clone with ssh
+- git@github.com:username/repo.git
+- cd repository
+- git status
+- git config --global user.name your_username
+- git config --global user.email your_email
+- nano README.md and edit something
+- git add *
+- git commit -m "Olaitan updates README.md"
+- git push origin master
+- git config --global credential.helper 'cache --timeout=3600'
+# Set the cache to timeout after 1 hour (setting is in seconds), 24hours = 86400
+- You should be able to push easily now
